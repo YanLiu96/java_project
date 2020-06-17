@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ComunicationGUI&apos; to &apos;comunicationGUI&apos;&#x0A;- Original project: &apos;Exercise2&apos;&#x0A;- Original element: &apos;Exercise2/src/ComunicationGUI&apos;&#x0A;- Renamed element: &apos;Exercise2/src/comunicationGUI&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ComunicationGUI&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ComunicationGUI" name="comunicationGUI" qualified="false" references="true" stamp="1549889227206" textual="false" version="1.0"/>
+</session>

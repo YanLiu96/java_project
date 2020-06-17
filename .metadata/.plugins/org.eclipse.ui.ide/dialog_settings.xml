@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/ly/Desktop/ProducerConsumer"/>
+			<item value="/Users/ly/Desktop/calculatorRMI-master"/>
+			<item value="/Users/ly/Desktop/Java-Remote-Method-Invocation-master"/>
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="/Users/ly/Desktop/Assign2_YanLiu.zip"/>
+			<item value="/Users/ly/Desktop/Assignment1.zip"/>
+			<item value="/Users/ly/Desktop/JieBao_20082475.zip"/>
+			<item value="/Users/ly/Desktop/WujiugeYin_20082255.zip"/>
+			<item value="/Users/ly/Desktop/CustomersGUI.zip"/>
+		</list>
+	</section>
+</section>

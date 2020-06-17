@@ -1,0 +1,23 @@
+1551966550654	Delete element
+1551966557791	Delete element
+1551966736238	Extract method 'connectDB'
+1551966885995	Extract method 'createServerSocket'
+1551966981230	Extract method 'createStreams'
+1551967145940	Extract method 'queryDatabase'
+1551967245995	Extract method 'studentValidate'
+1551967770924	Extract method 'setClientGUI'
+1551972675720	Extract method 'setActionListener'
+1551972783984	Extract method 'createSocketandStream'
+1551973494131	Extract method 'setClientThread'
+1551973886413	Extract method 'validateSuccess'
+1551973946406	Extract method 'validateFailure'
+1551975823178	Extract method 'getFeebackFromServer'
+1551976207416	Extract method 'setServerGUI'
+1551976343021	Extract interface 'Threads'
+1551976379077	Delete element
+1551978878516	Extract method 'sendDataToServer'
+1551979620133	Rename method 'validateSuccess'
+1551979637600	Rename method 'validateFailure'
+1551979646897	Rename method 'validateFail'
+1551990102113	Delete element
+1552144080483	Delete element
